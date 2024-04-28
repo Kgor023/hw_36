@@ -1,0 +1,13 @@
+.button_style {
+  width: 135px;
+  height: 45px;
+  border: 1px solid white;
+  background-color: rgb(31, 29, 29);
+  color: white;
+  margin-top: 37px;
+  margin-left: 40px;
+}
+.button_style:hover {
+  cursor: pointer;
+  background-color: black;
+}
